@@ -1,0 +1,114 @@
+.red {
+    color:red;
+    cursor:pointer;
+}
+
+.lime {
+    color: lime;
+    cursor:pointer;
+}
+
+.grey {
+    color:#999999;
+    cursor:pointer;
+}
+
+#showOrigCom {
+    background:white;
+    border:1px solid rgb(210, 210, 210);
+    padding:5px 10px;
+    border-radius:5px;
+    position:absolute;
+}
+
+#comments {
+    padding:0 20px;
+}
+
+.post .content {
+    padding: 10px;
+}
+
+.post {
+    padding: 10px;
+}
+
+.green {
+    color:green;
+}
+
+.form-control.my {
+    //width:600px;
+    height:100px !important;
+}
+.comm_form {
+    width: 555px;
+}
+
+.title {font-size: 24px; }
+
+.com {
+    //color:blue;
+}
+
+.com .com {
+    //color:red;
+    padding-left:28px;
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato'), local('Lato-Regular'), url(/fonts/Lato-Regular.ttf);
+    /*{{ route('posts') }}*/
+}
+
+.modal {
+    text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+    .modal:before {
+        display: inline-block;
+        vertical-align: middle;
+        content: " ";
+        height: 100%;
+    }
+}
+
+.modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+  #tags { margin-top: 5px !important; }
+
+.rtag {
+    display: inline-block;
+    margin-left: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 2px 5px;
+}
+
+#rtags { display: inline-block !important;}
+
+.tag {
+    margin:0px;
+}
+
+body {
+    font-family: 'Lato',"Helvetica Neue", Helvetica,Arial, sans-serif;
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+h4 {font-size:100%;font-weight:normal;line-height: 100%;}
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+    font-style: normal;
+}

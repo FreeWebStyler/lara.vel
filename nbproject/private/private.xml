@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/!serv/lara.vel/resources/views/post/create.blade.php</file>
+            <file>file:/D:/!serv/lara.vel/.env</file>
+            <file>file:/D:/!serv/lara.vel/config/database.php</file>
+            <file>file:/D:/!serv/lara.vel/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/D:/!serv/lara.vel/resources/views/layouts/app.blade.php</file>
+            <file>file:/D:/!serv/lara.vel/resources/views/post/_form.blade.php</file>
+            <file>file:/D:/!serv/lara.vel/app/Http/Controllers/PostController.php</file>
+            <file>file:/D:/!serv/lara.vel/resources/views/post/index.blade.php</file>
+            <file>file:/D:/!serv/lara.vel/resources/views/auth/register.blade.php</file>
+            <file>file:/D:/!serv/lara.vel/app/Http/routes.php</file>
+            <file>file:/D:/!serv/lara.vel/app/Models/Post.php</file>
+            <file>file:/D:/!serv/lara.vel/config/app.php</file>
+            <file>file:/D:/!serv/lara.vel/app/Http/Controllers/HomeController.php</file>
+            <file>file:/D:/!serv/lara.vel/app/User.php</file>
+            <file>file:/D:/!serv/lara.vel/resources/views/home.blade.php</file>
+        </group>
+    </open-files>
+</project-private>

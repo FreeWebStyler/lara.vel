@@ -13,6 +13,8 @@ Blog must be fast as can, and support:
 At this time I'm work over comments.
 Current status about 50%.
 
+P.S. Don't be very carp it's my first real project at GitHub and Laravel.
+
 ### Official Documentation
 
 Documentation not presented at this time cause project not finished yet.
